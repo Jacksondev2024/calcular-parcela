@@ -1,3 +1,2 @@
-web: gunicorn calculo:app
-
+web: gunicorn REDUÇÃO:app
 
